@@ -1,0 +1,17 @@
+.color-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  margin: 20px;
+  min-width: 800px;
+  border: solid 1px black;
+}
+
+.color-message {
+  margin-bottom: 10px;
+  font-size: 2rem;
+}
+.color-message h2 {
+  text-align: center;
+}

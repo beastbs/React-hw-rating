@@ -1,0 +1,14 @@
+.color-wrap {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.color__close-icon {
+  width: 18px;
+  height: 18px;
+  border-radius: 100%;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
